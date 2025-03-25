@@ -3,7 +3,7 @@
     "blocks": {
       "export-result": {
         "name": "Exportar resultado",
-        "description": "Exportar o resultado da coleta como JSON"
+        "description": "Exportar o resultado da coleção como JSON"
       }
     }
   },
@@ -13,9 +13,9 @@
         "title": "Blocos",
         "moveToGroup": "Mover bloco para o grupo de blocos",
         "selector": "Seletor de elemento",
-        "selectorOptions": "Opções de seletor",
-        "timeout": "Timeout (milissegundos)",
-        "noPermission": "O Automa não tem permissões suficientes para realizar esta ação",
+        "selectorOptions": "Opções do seletor",
+        "timeout": "Tempo limite (milissegundos)",
+        "noPermission": "Automa não tem permissões suficientes para executar esta ação",
         "grantPermission": "Conceder permissão",
         "action": "Ação",
         "element": {
